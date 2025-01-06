@@ -19,17 +19,12 @@ This plugin is developed and tested on Moodle Core's Boost theme. It should also
 
 # Plugin repositories
 This plugin will be published and regularly updated in the Moodle plugins repository: https://moodle.org/plugins/local_learningtools
-The latest development version can be found on Github: https://github.com/bdecentgmbh/moodle-local_learningtools/
+The latest development version can be found on Github: [https://github.com/bdecentgmbh/moodle-local_learningtools/](https://github.com/futuresea-dev/Moodle-Learning-Tools.git)
 
 # Bug and problem reports / Support requests
 This plugin is carefully developed and thoroughly tested, but bugs and problems can always appear.
-Please report bugs and problems on Github: https://github.com/bdecentgmbh/moodle-local_learningtools/issues
+Please report bugs and problems on Github: [https://github.com/bdecentgmbh/moodle-local_learningtools/issues](https://github.com/futuresea-dev/Moodle-Learning-Tools/issues)
 We will do our best to solve your problems, but please note that due to limited resources we can't always provide per-case support.
-
-# Feature proposals
-Please issue feature proposals on Github: https://github.com/bdecentgmbh/moodle-local_learningtools/issues
-Please create pull requests on Github: https://github.com/bdecentgmbh/moodle-local_learningtools/pulls
-We are always interested to read about your feature proposals or even get a pull request from you, but please accept that we can handle your issues only as feature proposals and not as feature requests.
 
 # Moodle release support
 This plugin is maintained for the two most recent major releases of Moodle as well as the most recent LTS release of Moodle.
@@ -38,6 +33,3 @@ If you are running a legacy version of Moodle, but want or need to run the lates
 # Translating this plugin
 This Moodle plugin is shipped with an english language pack only. All translations into other languages must be managed through AMOS (https://lang.moodle.org) by what they will become part of Moodle's official language pack.
 
-# Copyright
-bdecent gmbh 
-bdecent.de
