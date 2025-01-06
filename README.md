@@ -19,11 +19,11 @@ This plugin is developed and tested on Moodle Core's Boost theme. It should also
 
 # Plugin repositories
 This plugin will be published and regularly updated in the Moodle plugins repository: https://moodle.org/plugins/local_learningtools
-The latest development version can be found on Github: [https://github.com/bdecentgmbh/moodle-local_learningtools/](https://github.com/futuresea-dev/Moodle-Learning-Tools.git)
+The latest development version can be found on Github: [https://github.com/futuresea-dev/Moodle-Learning-Tools](https://github.com/futuresea-dev/Moodle-Learning-Tools.git)
 
 # Bug and problem reports / Support requests
 This plugin is carefully developed and thoroughly tested, but bugs and problems can always appear.
-Please report bugs and problems on Github: [https://github.com/bdecentgmbh/moodle-local_learningtools/issues](https://github.com/futuresea-dev/Moodle-Learning-Tools/issues)
+Please report bugs and problems on Github: [https://github.com/futuresea-dev/Moodle-Learning-Tools/issues](https://github.com/futuresea-dev/Moodle-Learning-Tools/issues)
 We will do our best to solve your problems, but please note that due to limited resources we can't always provide per-case support.
 
 # Moodle release support
